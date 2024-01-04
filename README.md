@@ -1,6 +1,6 @@
 - 👋 Hola, I’m @devesh202
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: Email-deveshzope2002@gmail.com.
 
 <!---
